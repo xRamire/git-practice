@@ -1,3 +1,3 @@
 Name: Adrian
 Age: 25
-Favorite Color: Blue
+Favorite Color: Red
